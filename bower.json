@@ -1,0 +1,10 @@
+{
+  "name": "less-elements-old",
+  "homepage": "https://github.com/hotfix31/less-elements",
+  "authors": [
+    "Frederic Le Barzic <fred@lebarzic.fr>"
+  ],
+  "description": "Old Useful LESS mixins http://lesselements.com",
+  "main": "elements.less",
+  "license": "MIT"
+}
